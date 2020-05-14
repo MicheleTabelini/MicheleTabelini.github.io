@@ -9,7 +9,7 @@ description: Profissionalmente, engenheira. Integralmente, resiliente e pratican
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -51,12 +51,12 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: tabelinimichele@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Michele Tabelini
+    bio: “Suas ações precisam te mover na direção do seu plano”
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
