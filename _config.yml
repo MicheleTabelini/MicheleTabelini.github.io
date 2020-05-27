@@ -2,7 +2,6 @@
 name: Michele Tabelini
 bio: “Suas ações precisam te mover na direção do seu plano”
 
-
 # twitter summary info
 description: Profissionalmente, engenheira. Integralmente, resiliente e praticante da gratidão como estilo de vida. 
 
@@ -31,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: micheletabelini # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
